@@ -5,7 +5,7 @@
 
 nav {
     background: rgba(229, 84, 115, 0.10);
-    width: 1350px;
+    width: 1348px;
     height: 850px;
 }
 
@@ -59,6 +59,10 @@ nav {
 }
 
 /* Our Featured Flowers Section */
+main {
+    margin: 0px 40px;
+}
+
 .Featured-title {
     margin-top: 250px;
     color: #272727;
@@ -79,4 +83,57 @@ nav {
     font-weight: 400;
     line-height: 30px;
     margin-top: 24px;
+}
+
+.img-setup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 50px;
+}
+
+.img-1 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 464px;
+    height: 538px;
+    text-align: center;
+}
+
+.image-1 {
+    width: 310px;
+    height: 428px;
+    margin-top: 110px;
+
+}
+
+.img-2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 464px;
+    height: 538px;
+    text-align: center;
+}
+
+.image-2 {
+    width: 370px;
+    height: 370px;
+    margin-top: 170px;
+
+}
+
+.img-3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 464px;
+    height: 538px;
+    text-align: center;
+}
+
+.image-3 {
+    width: 314px;
+    height: 471px;
+    margin-top: 67px;
+
 }
