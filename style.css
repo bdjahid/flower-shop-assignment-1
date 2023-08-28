@@ -5,15 +5,14 @@
 
 nav {
     background: rgba(229, 84, 115, 0.10);
-    width: 1920px;
+    width: 1350px;
     height: 850px;
 }
 
 .banner-container {
     display: flex;
     align-items: center;
-    margin-right: 240px;
-    margin-left: 240px;
+    padding: 0px 40px;
 }
 
 .banner-section {
@@ -27,7 +26,6 @@ nav {
     font-style: normal;
     font-weight: 800;
     line-height: normal;
-    width: 708px;
 }
 
 .banner-description {
@@ -55,7 +53,7 @@ nav {
 }
 
 .banner-img {
-    width: 635px;
+    width: 600px;
     height: 800px;
     margin-top: 50px;
 }
