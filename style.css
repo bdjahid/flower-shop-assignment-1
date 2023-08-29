@@ -5,7 +5,7 @@
 
 nav {
     background: rgba(229, 84, 115, 0.10);
-    width: 1348px;
+    width: 1349px;
     height: 850px;
 }
 
@@ -149,6 +149,7 @@ nav {
     text-decoration-line: underline;
 }
 
+
 /* Support section  */
 .support {
     display: flex;
@@ -173,6 +174,27 @@ nav {
     line-height: 35px;
     margin-top: 20px;
 }
+
+/* bonus section */
+.bonus {
+    background-color: #ded8d9;
+    background-image: url('./Flower Asset/pngwing\ 10.png');
+    background-repeat: no-repeat;
+    background-position: right 40px bottom;
+    background-size: 400px;
+    width: 1269px;
+    height: 500px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 40px;
+}
+
+.title-2 {
+    color: #E55473;
+}
+
 
 /* sign section */
 .section-container {
